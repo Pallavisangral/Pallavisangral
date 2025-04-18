@@ -1,3 +1,5 @@
+Pallavi Devi
+
 Machine Learning Engineer with nearly 2 years of experience building scalable AI systems, including LLM-powered tools, GenAI pipelines, and ML workflows. Proficient in model fine-tuning, prompt engineering, and cloud deployment with a strong focus on innovation and impact.
 
 • Language and Tools: Python (Pandas, NumPy, Scikit-Learn), SQL, NoSQL, GitHub
